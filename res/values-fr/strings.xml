@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bagatelles</string>
+    <string name="title_activity_quiz">QuizActivité</string>
+    <string name="hello_world">bonjour monde!</string>
+    <string name="action_settings">Paramètres</string>
+
+</resources>
